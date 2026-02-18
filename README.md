@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ali</h1>
 <h2>DevOps Engineer</h2>
 
-- 📫 How to reach me: ali99kalbasi82@gmail.com
+- Email: ali99kalbasi82@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
